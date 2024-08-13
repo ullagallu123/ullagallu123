@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm SIVA RAMA KRISHNA KONKA</h1>
 <h3 align="center">DevOps Specialist | Cloud Infrastructure Architect</h3>
 
-- 👯 I’m looking to collaborate on **Collaborating on Secure AWS Infrastructure and DevOps Pipelines with Terraform Expertise**
+- 👯 **Collaborating on Secure AWS Infrastructure and DevOps Pipelines with Terraform Expertise**
 
-- 🤝 I’m looking for help with **Cloud and DevOPs Project**
+- 🤝 **Cloud and DevOPs Project**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
