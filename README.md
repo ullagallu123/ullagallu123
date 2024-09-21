@@ -3,7 +3,7 @@
 
 - 👯 **Collaborating on Secure AWS Infrastructure and DevOps Pipelines with Terraform Expertise**
 
-- 🤝 **Cloud and DevOPs Project**
+- 🤝 **Cloud and DevOps Project**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
