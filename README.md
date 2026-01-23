@@ -14,8 +14,6 @@
 
 ### 🏢 Work Contributions
 
-- [aws-3tier-infra](https://github.com/konka-devops-lab/aws-3tier-infra) – Designed and implemented a complete 3-tier AWS infrastructure using Terraform (VPC,EC2,RDS,Elasti Cache,ASG,ALB,Cloud Front,Secrets Manager,Parameter Store,S3,CloudWatch,Route53,Certificate Manager,IAM) with CI/CD automation.
-
-- [eks-prod-infra](https://github.com/konka-devops-lab/eks-prod-infra) – Built and managed a production-ready EKS cluster with Terraform, including networking, IAM roles, cluster autoscaling, and GitOps-based application deployment.
-
+- [aws-3tier-infra](https://github.com/konka-devops-lab/aws-3tier-infra) – Designed and implemented a complete 3-tier AWS infrastructure using Terraform (VPC,EC2,RDS,Elasti Cache,ASG,ALB,Cloud Front,Secrets Manager,Parameter Store,S3,CloudWatch,Route53,Certificate Manager,IAM)
+- [eks-prod-infra](https://github.com/konka-devops-lab/eks-prod-infra) – Built and managed a production-ready EKS cluster with Terraform, including networking, IAM roles, cluster autoscaling.
 - [serverless-infra-stack](https://github.com/konka-devops-lab/serverless-infra-stack) – Developed a serverless infrastructure stack using [S3[CORS]+CloudFront,ECS,ALB,Elastic Cache,RDS,IAM,Secrets Manager,Parameter Store, Certificate Manager]
