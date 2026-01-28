@@ -14,7 +14,7 @@
 
 ### 🏢 Work Contributions
 
-- [eks-prod-infra](https://github.com/konka-devops-lab/eks-prod-infra) – Built and managed a production-ready EKS cluster using Terraform, including VPC networking, IAM roles, cluster autoscaling, and node group management.
+- [eks-prod-infra](https://github.com/konka-devops-lab/eks-prod-infra) – Built and managed a production-ready EKS cluster using Terraform, including VPC networking, IAM roles, cluster autoscaling, and node group management,karpneter ...
 
 - [eks-prod-infra-practice](https://github.com/konka-devops-lab/eks-practice) – Built and managed a production-ready EKS cluster using Terraform, including VPC networking, IAM roles, cluster autoscaling, and node group management.
 
