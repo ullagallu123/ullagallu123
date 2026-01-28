@@ -16,6 +16,8 @@
 
 - [eks-prod-infra](https://github.com/konka-devops-lab/eks-prod-infra) – Built and managed a production-ready EKS cluster using Terraform, including VPC networking, IAM roles, cluster autoscaling, and node group management.
 
+- [eks-prod-infra-practice](https://github.com/konka-devops-lab/eks-practice) – Built and managed a production-ready EKS cluster using Terraform, including VPC networking, IAM roles, cluster autoscaling, and node group management.
+
 - [serverless-infra-stack](https://github.com/konka-devops-lab/serverless-infra-stack) – Developed a scalable serverless infrastructure stack using S3 (CORS) + CloudFront for frontend, ECS + ALB for backend, RDS, ElastiCache, IAM, Secrets Manager, Parameter Store, and ACM.
 
 - [aws-3tier-infra](https://github.com/konka-devops-lab/aws-3tier-infra) – Designed and implemented a complete traditional vm hostingon  AWS infrastructure using Terraform (VPC, EC2, RDS, ElastiCache, ASG, ALB, CloudFront, Secrets Manager, Parameter Store, S3, CloudWatch, Route53, ACM, IAM).
