@@ -14,15 +14,21 @@
 
 ### 🏢 Work Contributions
 
-- [aws-3tier-infra](https://github.com/konka-devops-lab/aws-3tier-infra) – Designed and implemented a complete traditional vm hostingon  AWS infrastructure using Terraform (VPC, EC2, RDS, ElastiCache, ASG, ALB, CloudFront, Secrets Manager, Parameter Store, S3, CloudWatch, Route53, ACM, IAM).
-
 - [eks-prod-infra](https://github.com/konka-devops-lab/eks-prod-infra) – Built and managed a production-ready EKS cluster using Terraform, including VPC networking, IAM roles, cluster autoscaling, and node group management.
 
 - [serverless-infra-stack](https://github.com/konka-devops-lab/serverless-infra-stack) – Developed a scalable serverless infrastructure stack using S3 (CORS) + CloudFront for frontend, ECS + ALB for backend, RDS, ElastiCache, IAM, Secrets Manager, Parameter Store, and ACM.
+
+- [aws-3tier-infra](https://github.com/konka-devops-lab/aws-3tier-infra) – Designed and implemented a complete traditional vm hostingon  AWS infrastructure using Terraform (VPC, EC2, RDS, ElastiCache, ASG, ALB, CloudFront, Secrets Manager, Parameter Store, S3, CloudWatch, Route53, ACM, IAM).
 
 - [kubernetes-platform](https://github.com/konka-cloud-devops-platform/kubernetes-platform) – Designed and maintained Helm charts for  **MoneyLag** and **Instana**, enabling standardized and repeatable Kubernetes deployments.
 
 - [platform-images](https://github.com/konka-cloud-devops-platform/platform-images) – Managed and built Docker images for internal platform services, ensuring secure, optimized, and version-controlled container images for Kubernetes environments.
 
 - [cicd-platform](https://github.com/konka-cloud-devops-platform/cicd-platform) – Created reusable CI/CD shared libraries and GitHub reusable workflows to standardize build, test, security scanning, and deployment pipelines across multiple projects.
+
+
+
+
+
+
 
